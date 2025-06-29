@@ -1,4 +1,4 @@
-# DevSecOps Projects Overview
+# DevSecOps Projects Overview.
 
 ## Introduction
 
